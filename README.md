@@ -11,5 +11,6 @@ CoreData
 ```ruby
 MVVM
 ```
-Uploading Simulator_Screen_Recording_-_iPhone_12_-_2022-08-12_at_18.26.32.mp4…
+https://user-images.githubusercontent.com/91490765/184388706-ed13d69c-dfa0-4f0a-ae29-a8bee6d284a0.mp4
+
 
