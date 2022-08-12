@@ -1,5 +1,5 @@
 # ToDoList
-The app allows you to store and create data about your favorite films 
+In this application you can specify your tasks for the near future.
 ## Technology
 
 ```ruby
